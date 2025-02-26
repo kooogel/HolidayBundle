@@ -1,5 +1,5 @@
 {
-    "name":         "checkdomain/holiday-bundle",
+    "name":         "kooogel/holiday-bundle",
     "description":  "Checkdomain/HolidayBundle provides a simple class to get holidays for a specified country",
     "keywords":     ["holiday", "symfony", "bundle"],
     "type":         "library",
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "checkdomain/holiday": "~2.0|~3.0"
+        "kooogel/holiday": "~3.2.1"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*"
