@@ -1,14 +1,14 @@
 {
     "name":         "kooogel/holiday-bundle",
-    "description":  "Checkdomain/HolidayBundle provides a simple class to get holidays for a specified country",
+    "description":  "kooogel/HolidayBundle provides a simple class to get holidays for a specified country",
     "keywords":     ["holiday", "symfony", "bundle"],
     "type":         "library",
     "license":      "MIT",
     "authors": [
         {
-            "name":     "Benjamin Paap",
-            "email":    "b.paap@checkdomain.de",
-            "homepage": "http://checkdomain.de"
+            "name":     "Christoph Kugel",
+            "email":    "christoph@kooogel.de",
+            "homepage": "http://kooogel.de"
         }
     ],
     "require": {
